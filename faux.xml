@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Projet final - Diarry SOUNG, née le 01/05/2005 -->
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="catalogue.xsd"
+  cote="LIV-04" type="livre" disponible="false">
+  <titre>Le Jardin des Sables</livre>
+  <auteur>Binta Seck</auteur>
+  <auteur>Awa Sy</auteur>
+  <annee>1800</annee>
+  <prix>3500</prix>
+</document>
